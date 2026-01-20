@@ -1,38 +1,16 @@
 # about-us
-Công ty Global Land Việt Nam chuyên cung cấp dịch vụ tư vấn Mua bán và Cho thuê Bất Động Sản tại Việt Nam. Với đội ngũ chuyên gia giàu kinh nghiệm và phong cách làm việc chuyên nghiệp, cùng hệ thống sản phẩm đa dạng, chúng tôi cam kết mang đến cho Quý khách hàng những giải pháp tối ưu và hiệu quả nhất, đáp ứng mọi nhu cầu và mong muốn trong lĩnh vực bất động sản.
+Global Land Viet Nam is a leading company providing consulting services for Property Selling and Leasing in Vietnam. With a team of highly experienced professionals and a commitment to excellence, we offer a diverse range of property solutions.
 
-(*) Bất Động Sản tại Hồ Chí Minh
-👉 https://globalland.vn/bat-dong-san
+(*) Properties in Ho Chi Minh: https://globalland.vn/listing
 
-(*) Căn hộ Cho Thuê tại Hồ Chí Minh
-🌎 https://globalland.vn/can-ho-cho-thue-tp-hcm
+(*) Apartment For Lease in HCMC: https://globalland.vn/apartment-ho-chi-minh-for-lease
 
-(*) Căn Hộ Dịch Vụ tại Hồ Chí Minh
-https://globalland.vn/can-ho-dich-vu-cho-thue-tp-hcm
+(*) Serviced Apartment in HCMC: https://globalland.vn/serviced-apartment-ho-chi-minh-for-lease
 
-(*) Văn phòng Cho Thuê tại HCM
-https://globalland.vn/van-phong-cho-thue-tp-hcm
+(*) Office For Lease in HCMC: https://globalland.vn/office-ho-chi-minh-for-lease
 
-(*) Văn Phòng Trọn Gói tại HCM
-https://globalland.vn/van-phong-tron-goi-cho-thue-tp-hcm
+(*) Serviced Office in HCMC: https://globalland.vn/serviced-office-ho-chi-minh-for-lease
 
-(*) Mặt Bằng Cho Thuê tại HCM
-https://globalland.vn/mat-bang-cho-thue-tp-hcm
+(*) Retail For Lease in HCMC: https://globalland.vn/retail-ho-chi-minh-for-lease
 
-(*) Properties in Ho Chi Minh
-https://globalland.vn/listing
-
-(*) Apartment For Lease in HCMC
-https://globalland.vn/apartment-ho-chi-minh-for-lease
-
-(*) Serviced Apartment in HCMC
-https://globalland.vn/serviced-apartment-ho-chi-minh-for-lease
-
-(*) Office For Lease in HCMC
-https://globalland.vn/office-ho-chi-minh-for-lease
-
-(*) Serviced Office in HCMC
-https://globalland.vn/serviced-office-ho-chi-minh-for-lease
-
-(*) Retail For Lease in HCMC
-https://globalland.vn/retail-ho-chi-minh-for-lease
+Should you have any inquiries, please do not hesitate to contact us at our hotline: +84 922 86 87 88 for further assistance.
