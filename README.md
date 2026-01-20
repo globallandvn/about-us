@@ -13,4 +13,4 @@ Global Land Viet Nam is a leading company providing consulting services for Prop
 
 (*) Retail For Lease in HCMC: https://globalland.vn/retail-ho-chi-minh-for-lease
 
-Should you have any inquiries, please do not hesitate to contact us at our hotline: +84 922 86 87 88 for further assistance.
+☎ Should you have any inquiries, please do not hesitate to contact us at our hotline: +84 922 86 87 88 for further assistance.
