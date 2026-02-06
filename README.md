@@ -1,7 +1,7 @@
 # about-us
 Global Land Viet Nam is a leading company providing consulting services for Property Selling and Leasing in Vietnam. With a team of highly experienced professionals and a commitment to excellence, we offer a diverse range of property solutions.
 
-(*) Properties in Ho Chi Minh City: https://globalland.vn/listing
+(*) Properties in Ho Chi Minh City: https://globalland.vn/property
 
 (*) Apartment For Lease in Ho Chi Minh City: https://globalland.vn/apartment-ho-chi-minh-for-lease
 
